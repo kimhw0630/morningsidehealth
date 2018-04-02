@@ -1,0 +1,15 @@
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    /* Set the fixed height of the footer here */
+    height: 43px;
+    line-height: 43px; /* Vertically center the text there */
+    background-color:#2a2a2a;
+    .notice {
+        display: inline-block;
+        font-size: 13px;
+        color: #fff;
+    }
+  }
+    

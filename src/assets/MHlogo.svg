@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="479px" height="480px" viewBox="0 0 479 480" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>MHlogo</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="50%" x2="100%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#419A1C" offset="0%"></stop>
+            <stop stop-color="#419A1C" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="50%" x2="100%" y2="50%" id="linearGradient-2">
+            <stop stop-color="#F2AF58" offset="0%"></stop>
+            <stop stop-color="#EDE576" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="13.2456004%" y1="58.1373215%" x2="123.508799%" y2="58.1373215%" id="linearGradient-3">
+            <stop stop-color="#E78200" offset="0%"></stop>
+            <stop stop-color="#E78200" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="50%" x2="100%" y2="50%" id="linearGradient-4">
+            <stop stop-color="#BBFF9C" stop-opacity="0.61" offset="0%"></stop>
+            <stop stop-color="#BBFF9C" stop-opacity="0.61" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="MHlogo">
+            <g id="svg_2" transform="translate(151.333333, 0.000000)" fill-rule="nonzero" fill="url(#linearGradient-1)">
+                <g id="svg_11">
+                    <path d="M309.63194,0 C309.63194,132.803888 0.369421293,66.4019438 0.369421293,332.00972 C0.369421293,431.612635 34.7319235,464.813607 34.7319235,464.813607 L69.0944256,464.813607 C69.0944256,464.813607 17.5506724,431.612635 17.5506724,332.00972 C17.5506724,265.607776 172.181932,199.205832 172.181932,199.205832 C172.181932,199.205832 35.0583672,271.052735 35.0583672,339.247532 C253.861599,372.365501 374.972238,126.263296 309.63194,0 Z" id="svg_12"></path>
+                </g>
+            </g>
+            <g id="svg_4" transform="translate(251.000000, 23.000000)" fill-rule="nonzero" fill="url(#linearGradient-2)">
+                <g id="svg_13">
+                    <ellipse id="svg_14" cx="31.8034317" cy="31.8364386" rx="31.8034317" ry="31.8364386"></ellipse>
+                </g>
+            </g>
+            <g id="svg_8" transform="translate(9.000000, 22.693548)" font-size="150" font-family="Georgia" fill="url(#linearGradient-3)" font-weight="normal">
+                <g id="svg_17">
+                    <text id="M">
+                        <tspan x="0" y="138">M</tspan>
+                    </text>
+                    <text id="H">
+                        <tspan x="313" y="394">H</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="svg_6" transform="translate(137.541667, 296.346774) scale(-1, 1) translate(-137.541667, -296.346774) translate(24.000000, 128.000000)" fill-rule="nonzero" fill="url(#linearGradient-4)">
+                <g id="svg_15">
+                    <path d="M214.444505,0 C214.444505,96.0419035 0.0894795897,48.0209518 0.0894795897,240.104759 C0.0894795897,312.136186 23.9067046,336.146662 23.9067046,336.146662 L47.7239297,336.146662 C47.7239297,336.146662 11.9980922,312.136186 11.9980922,240.104759 C11.9980922,192.083807 119.175605,144.062856 119.175605,144.062856 C119.175605,144.062856 24.1329683,196.021525 24.1329683,245.339042 C175.789149,269.289492 259.732959,91.3118398 214.444505,0 Z" id="svg_16"></path>
+                </g>
+            </g>
+            <g id="svg_10" transform="translate(0.291667, 435.645161)" fill-rule="nonzero" fill="url(#linearGradient-1)">
+                <g id="svg_20">
+                    <path d="M142.106606,20.9081165 C160.158886,33.2059232 188.978377,33.0115049 205.896879,20.8825352 C210.503002,24.1228392 215.104228,27.3648488 219.712799,30.6085637 C193.530626,49.5046527 150.496068,47.3933388 128.268648,30.5693389 L128.268648,30.5693389 C112.471678,19.8473432 93.4349957,14.0130905 71.1243173,13.9670441 C48.8062926,13.9244085 29.7108398,19.6665684 13.7987787,30.3749207 C9.15592434,27.0681051 4.57673779,23.8039251 0,20.5414505 C43.6516468,-9.30004465 106.704842,-4.35943363 142.106606,20.9081165 Z" id="svg_21"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

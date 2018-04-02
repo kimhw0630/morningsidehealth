@@ -1,0 +1,115 @@
+.header-logo {
+    height: 32px;
+}
+.company-name {
+    margin-left: 10px;
+    color: #282319;
+    font-size: 1.6rem;
+    font-weight: bold;
+    font-family: 'Kaushan Script', sans-serif;
+    opacity: 0.8;
+}
+.navbar {
+    height: 60px;
+    background-color: rgba(0, 0, 0, 0.3);
+    -webkit-transition: height 1.0s linear, background-color 1.0s linear, color 1.0s linear;
+    -moz-transition: height 1.0s linear, background-color 1.0s linear, color 1.0s linear;
+    -o-transition: height 1.0s linear, background-color 1.0s linear, color 1.0s linear;
+    -ms-transition: height 1.0s linear, background-color 1.0s linear, color 1.0s linear;
+    transition: height 1.0s linear, background-color 1.0s linear, color 1.0s linear;
+    // transition: all 1.03s ease-out;
+}
+.navbar.header-big {
+    background-color: rgba(0, 0, 0, 0.6);
+    height: 80px;
+    .company-name {
+        margin-left: 10px;
+        color: #C0CB77;
+    }
+}
+.header-container {
+    z-index: 2;
+    padding-bottom: 100px;
+    opacity: 0.8;
+    h1 {
+        font-weight: 700;
+        color: 	rgb(40, 35, 25);//#FF6600;
+        //text-shadow: -1px 0 #666666, 0 1px #666666, 1px 0 #666666, 0 -1px #666666;
+    }
+    h2 {
+        font-weight: 700;
+        color: 		#FF9224;//#FF6600;
+        //text-shadow: -1px 0 #666666, 0 1px #666666, 1px 0 #666666, 0 -1px #666666;
+    }
+    
+}
+
+header.masthead {
+    position: relative;
+    padding-top: 10rem;
+    padding-bottom: calc(10rem - 56px);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    //background-image: url("/assets/images/header3.jpeg");
+    //background-position: center center;
+    //-webkit-background-size: cover;
+    //-moz-background-size: cover;
+    //-o-background-size: cover;
+    //background-size: cover;
+}
+header.masthead:before {
+    content: ' ';
+    display: block;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+    opacity: 0.8;
+    background-image: url("/assets/images/header3.png");
+    background-position: center center; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+  
+header.masthead hr {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+  
+  header.masthead h1 {
+    font-size: 2rem;
+  }
+  
+  header.masthead p {
+    font-weight: 300;
+  }
+  
+  @media (min-width: 768px) {
+    header.masthead p {
+      font-size: 1.15rem;
+    }
+  }
+  
+  @media (min-width: 992px) {
+    header.masthead {
+      height: 100vh;
+      min-height: 650px;
+      padding-top: 0;
+      padding-bottom: 0;
+    }
+    header.masthead h1 {
+      font-size: 3rem;
+    }
+  }
+  
+  @media (min-width: 1200px) {
+    header.masthead h1 {
+      font-size: 4rem;
+    }
+  }

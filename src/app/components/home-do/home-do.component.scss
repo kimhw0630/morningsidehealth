@@ -1,0 +1,21 @@
+.list-check.orange-check {
+    list-style-type: none;
+    -webkit-padding-start: 0;
+    padding: 0;
+    li {
+        i {
+            color:#FF9224;
+            margin-right: 15px;
+        }
+    }
+}
+.list-check.green-check {
+    list-style-type: none;
+    
+    li {
+        i {
+            color:#38C898;
+            margin-right: 15px;
+        }
+    }
+}

@@ -1,0 +1,30 @@
+
+  <nav class="navbar navbar-fixed-top navbar-toggleable-md navbar-inverse bg-faded"
+  [ngClass]="{'header-big': bIsTopPosition}"
+  >
+    <button class="navbar-toggler navbar-toggler-right" type="button" (click)="isNavbarCollapsed = !isNavbarCollapsed"
+            aria-controls="exCollapsingNavbar2" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <a class="navbar-brand" [ngx-scroll-to]="'#home'">
+        <img src="assets/MHlogo.svg" class="header-logo" alt="Morningside Health">
+      <span class="company-name">Morningside Health</span>
+    </a>
+    <div [ngbCollapse]="isNavbarCollapsed" class="collapse navbar-collapse" id="exCollapsingNavbar2">
+      <div class="navbar-nav mr-auto">
+        <a class="nav-item nav-link cursor-pointer" [ngx-scroll-to]="'#home'">Home</a>
+        <a class="nav-item nav-link cursor-pointer" [ngx-scroll-to]="'#whatwesell'">What We Sell</a>
+        <a class="nav-item nav-link cursor-pointer" [ngx-scroll-to]="'#services'">What We Do</a>
+        <a class="nav-item nav-link cursor-pointer" [ngx-scroll-to]="'#contactus'" >Contact Us</a>
+      </div>
+    </div>
+  </nav>
+<header class="masthead">
+    
+    <div class="container header-container">
+        <h1>Welcome to Morningside Health</h1>
+        <h2>Natural Health Products & Health Clinic</h2>
+        <h3 style="position: relative;">Canada Ontario Morningside</h3>
+        <!--<h3 style="position: relative;">Canada Ontario morningside<img src="assets/images/Canada-flat-icon.png"></h3>-->
+    </div>
+</header>
